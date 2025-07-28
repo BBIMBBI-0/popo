@@ -56,7 +56,7 @@ h2 {
     font-size: 1.7rem;
 }
 #menu a:hover, #menu a:focus , #menu a.act {
-    color:rgb(170, 109, 255); font-size: 2rem;
+    color:rgb(170, 109, 255); font-size: 1.9rem;
 }
 
 /* 타자치는 효과 */
@@ -267,7 +267,7 @@ h2 {
 
 /* Contact Us */
 #contact {
-    background: #eee; min-height: 100vh;  padding-bottom:30vh;
+    background: #eee; min-height: 50vh;  padding-bottom:30vh;
 }
 #contact h2 {
     color: rgb(105, 43, 152);
@@ -316,7 +316,16 @@ h2 {
 #popup img {
     display: block; margin: auto; max-width: 70%;
 }
-
+/*ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ*/
+footer {
+    background:#595959;
+    padding:20px; 
+    color:white; text-align: center;
+    line-height: 200%;
+}
+footer p:last-child {
+    font-size:0.8rem; font-weight:bold;
+}
 
 
 /*******************************************************/
